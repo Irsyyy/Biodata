@@ -1,0 +1,21 @@
+{
+    "nama" : "Irsyad Fadhil Ahmad",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2000-12-10",
+    "alamat": {
+        "jalan" : "Kp. Sayati RT 03 RW 03",
+        "desa" : "Sayati",
+        "kecamatan" : "Margahayu"
+    },
+    "hobi" : [
+        "Muncak",
+        "Mas anas"
+    ],
+    "kontak" : {
+        "email" : "Masanas@gmail.com",
+        "whatsapp" : "08342388322",
+        "github" : "Gatotttt",
+        "instagram" : "anassigma"
+    }
+
+}
