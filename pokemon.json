@@ -1,0 +1,25 @@
+{
+    "nama" : "Trevenant",
+    "nomor_pokedex" : "0709",
+    "bentuk" : "Normal",
+    "tipe" : [
+        "Daun",
+        "Hantu"
+    ],
+    "Kelemahan" : [
+        "Api",
+        "Hantu",
+        "Es",
+         "Kegelapan",
+        "Terbang"
+    ],
+    "tinggi" : "1.5 meter",
+    "berat" : "71 kilo",
+    "kemampuan" : [
+        "Penyembuhan Alami",
+        "Serba Tahu"
+    ],
+    "kategori" : "Pokemon Pohon Sesepuh",
+    "jenis_kelamin" : "Jantan/Betina"
+
+}
